@@ -4,28 +4,40 @@ html {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
+  background: #93abc8;
   max-width: 50em;
   margin: auto;
 
   text-align: center;
 
-  border: 4px solid burlywood;
+  border: 7px solid #72777F;
+  border-radius: 10px;
+  box-shadow: 12px 12px #E5E9E7;
+
   padding: 12px;
-  box-shadow: 12px 12px burlywood;
-  color: grey;
-
-
-
+  color: #72777F;
 }
 
+
+
+/*h2 {
+  display: inLine; 
+  background-color:#E5E9E7;
+  border-radius: 10px;
+  padding: 3px;
+  text-align:center;
+}*/
+
+
 img{
-  height: 100px;
+  height: 200px;
+  /*border: 10px solid #E5E9E7;
   border-radius: 20px;
   
 }
 
-.dark {
+/*.dark {
   color: white;
   background: grey;
-}
+}*/
+
